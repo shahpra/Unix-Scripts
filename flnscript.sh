@@ -12,3 +12,5 @@ if [ $?==0 ]; then
 echo $files
 fi
 done
+
+#this can be done using xargs or exec with the find command
