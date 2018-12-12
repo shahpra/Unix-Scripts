@@ -1,0 +1,13 @@
+root:x:0:0:root:/root:/bin/bash
+postgres:x:26:26:PostgreSQL Server:/var/lib/pgsql:/bin/bash
+fyre:x:1000:1000::/home/fyre:/bin/bash
+db2inst1:x:1001:101::/home/db2inst1:/bin/bash
+db2sdfe1:x:1002:102::/home/db2sdfe1:/bin/bash
+jenkins:x:989:984:Jenkins Automation Server:/var/lib/jenkins:/bin/bash
+ranjit:x:1003:1003::/home/ranjit:/bin/bash
+Praveen Shah:x:1004:1004::/home/Praveen:/bin/bash
+Navin:x:1005:1005::/home/Navin:/bin/bash
+Ranjit Pradhan:x:1006:1006::/home/Ranjit:/bin/bash
+Sachin:x:1007:1007::/home/Sachin:/bin/bash
+Raj:x:1008:1008::/home/Raj:/bin/bash
+Rajesh:x:1009:1009::/home/Rajesh:/bin/bash
